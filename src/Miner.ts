@@ -33,7 +33,6 @@ export class Miner extends BaseGameEntity {
         this._location = LOCATION_TYPE.SHACK;
         this._stateMachine = new StateMachine(this);
         this._stateMachine.currentState = GoHomeAndSleepTilRested.getInstance();
-        // this._stateMachine.globalState = MinerGlobalState.getInstance();
     }
 
     get FSM(): StateMachine {
