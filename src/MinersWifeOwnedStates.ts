@@ -1,6 +1,5 @@
 import { State } from './State'
 import { MinersWife } from './MinersWife'
-import { LOCATION_TYPE } from './Locations'
 import { GetNameOfEntity } from './EntityNames'
 
 import chalk from 'chalk';
