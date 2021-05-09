@@ -8,7 +8,7 @@ export function GetNameOfEntity(n: number): string {
         case ENTITY_NAMES.ENT_MINER_BOB:
             return "鉱夫 ボブ";
         case ENTITY_NAMES.ENT_ELSA:
-            return "エルサ";
+            return "エルザ";
         default:
             return "UNKNOWN!";
     }
