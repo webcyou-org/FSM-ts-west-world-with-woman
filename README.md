@@ -13,6 +13,10 @@
 
 ![FSM-ts-west-world-with-woman](https://user-images.githubusercontent.com/1584153/118146126-42b98980-b449-11eb-82dc-ef484bb067eb.png)
 
+### Elsa State diagrams
+
+![elsa_diagrams](https://user-images.githubusercontent.com/1584153/118146556-b196e280-b449-11eb-8209-4f1af7c5dd07.png)
+
 ## Sample output
 
 ![fsm-woman](https://user-images.githubusercontent.com/1584153/118146463-9926c800-b449-11eb-83c6-f6c34359cc02.png)
